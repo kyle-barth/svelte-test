@@ -1,3 +1,11 @@
+# Testing out some interesting tools
+
+[Snowpack](https://www.snowpack.dev/), [TypeScript](https://www.typescriptlang.org/), [Svelte](https://svelte.dev/), [pnpm](https://github.com/pnpm/pnpm).
+
+Clone the project, `pnpm start`
+
+---
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
