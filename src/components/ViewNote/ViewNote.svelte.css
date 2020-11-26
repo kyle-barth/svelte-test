@@ -1,0 +1,13 @@
+.note {
+  background-color: #ececec;
+  border-radius: 1em;
+  margin: 1em;
+}
+
+.note-container {
+  margin: 1em;
+}
+
+.note-body {
+  color: #30475e;
+}
