@@ -4,6 +4,19 @@
 
 Clone the project, `pnpm start`
 
+## Things to note on the stuff I'm new to:
+### Svelte
+1) I couldn't figure out a nice way to have encapsulated styles without clogging up the svelte files, the method used for importing the styles in this project leaks into other files. Seems you need the styles in the file, seems kinda messy... 
+1) Not a fan of the svelty specific logic, prefer reacts JSX as you can just write JavaScript.
+1) Still a new project, error messages aren't too helpful.
+1) very very fast
+
+### Snowpack
+1) everything just worked, and it's super performant... why not.
+
+### pnpm
+1) everything just worked, and it's super performant... why not.
+
 ---
 
 # New Project
